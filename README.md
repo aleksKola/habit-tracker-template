@@ -27,8 +27,8 @@ Before you begin, ensure you have installed:
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/aleksKola/habit-tracker.git
-   cd habit-tracker
+   git clone https://github.com/aleksKola/habit-tracker-template.git
+   cd habit-tracker-template
 ```
 
 2. **Install dependencies**
