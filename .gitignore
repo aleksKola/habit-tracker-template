@@ -1,13 +1,4 @@
-# OS files
-.DS_Store
-
-# Database files
-# *.db
-*.sqlite
-*.sqlite3
-
-# Node modules
 node_modules/
-
-# Environment variables
+.DS_Store
 .env
+habit-tracker.db
